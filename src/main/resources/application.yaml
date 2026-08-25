@@ -9,6 +9,4 @@ spring:
     config:
       uri: http://config.platform:9000
 
-  app:
-    storage:
-      bucket-name: "student-bucket-1"
+
