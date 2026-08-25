@@ -8,3 +8,7 @@ spring:
   cloud:
     config:
       uri: http://localhost:9000
+
+  app:
+    storage:
+      bucket-name: "student-bucket-1"
